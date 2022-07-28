@@ -2,3 +2,4 @@
 Все отлично
 Все всем пока
 login create
+login stop
