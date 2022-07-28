@@ -3,3 +3,5 @@
 Все всем пока
 Popup create
 popup close
+login create
+login stop
