@@ -2,3 +2,4 @@
 Все отлично
 Все всем пока
 Popup create
+popup close
